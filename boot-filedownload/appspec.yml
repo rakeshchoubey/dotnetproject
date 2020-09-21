@@ -2,4 +2,4 @@ version: 0.0
 os: windows
 files:
 - source: target\appspec.yml
-  destination: c:\temp\webapps
+  destination: c:\temp\webapps\
