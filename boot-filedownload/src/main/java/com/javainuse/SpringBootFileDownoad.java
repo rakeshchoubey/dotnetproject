@@ -8,7 +8,7 @@ public class SpringBootFileDownoad {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootFileDownoad.class, args);
-		System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>");
+		System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>...");
 	}
 
 }
